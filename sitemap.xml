@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://bank.example.ru/</loc><priority>1.0</priority></url>
+  <url><loc>https://bank.example.ru/deposits.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bank.example.ru/credits.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bank.example.ru/cards.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bank.example.ru/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bank.example.ru/offices.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bank.example.ru/contacts.html</loc><priority>0.8</priority></url>
+</urlset>
